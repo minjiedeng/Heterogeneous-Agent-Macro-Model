@@ -6,7 +6,8 @@
 
 # Take Krusell-Smith Model as an example
 # The model is described briefly as following: There is a continuum of households with preferences over consumption.
-# Each household supplies epsilon_{jt} efficiency units of labor, which distributed independently across hh, but within hh follows a two-state Markov Chain with a constant transition probability.
-# HH can only trade in capital s.t. borrowing constraint.
-# Representative firm produces. There's aggregate productivity shock, which follows AR(1)
+# Each household supplies epsilon_{jt} efficiency units of labor, which distributed independently across households, 
+# but within households follows a two-state Markov Chain with a constant transition probability.
+# Households can only trade in capital subject to borrowing constraint.
+# Representative firm produces. There's aggregate productivity shock, which follows AR(1).
 
