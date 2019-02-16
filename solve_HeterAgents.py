@@ -10,4 +10,3 @@
 # but within households follows a two-state Markov Chain with a constant transition probability.
 # Households can only trade in capital subject to borrowing constraint.
 # Representative firm produces. There's aggregate productivity shock, which follows AR(1).
-
